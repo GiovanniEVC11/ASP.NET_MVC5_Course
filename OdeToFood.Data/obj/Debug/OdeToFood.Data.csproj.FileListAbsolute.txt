@@ -1,0 +1,6 @@
+C:\Users\vc98g\source\repos\OdeToFoodS\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+C:\Users\vc98g\source\repos\OdeToFoodS\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+C:\Users\vc98g\source\repos\OdeToFoodS\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\vc98g\source\repos\OdeToFoodS\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+C:\Users\vc98g\source\repos\OdeToFoodS\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
+C:\Users\vc98g\source\repos\OdeToFoodS\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
